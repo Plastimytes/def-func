@@ -1,0 +1,14 @@
+def fullname():
+    name="Richard Magezi"
+    print(name)
+#call func
+fullname()#this calls the function allowing for printing
+
+#return name
+def printfullname():  
+    name="Richard Magezi"  
+    return name
+print("Your name is",printfullname())
+
+
+
